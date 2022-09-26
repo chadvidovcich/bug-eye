@@ -28,3 +28,7 @@ p {
     text-align: left; 
     font-size: 140%;
 }
+
+.image-holder img {
+    width: 100%;
+}

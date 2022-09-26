@@ -10,6 +10,7 @@
   "author": "Chad Vidovcich",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "^2.1194.0",
     "connect-mongo": "^4.6.0",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
@@ -19,6 +20,7 @@
     "moment": "^2.29.4",
     "mongoose": "^6.5.1",
     "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0"
   },
